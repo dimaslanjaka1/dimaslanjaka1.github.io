@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/dimaslanjaka1/dimaslanjaka1.github.io/issues"
   },
-  "homepage": "https://github.com/dimaslanjaka1/dimaslanjaka1.github.io#readme"
+  "homepage": "https://github.com/dimaslanjaka1/dimaslanjaka1.github.io#readme",
+  "devDependencies": {
+    "static-blog-generator": "file:../static-blog-generator"
+  }
 }
