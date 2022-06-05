@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../static-blog-generator"
+		}
+	],
+	"settings": {
+		"editor.tabCompletion": "on",
+		"emmet.excludeLanguages": [],
+		"emmet.includeLanguages": {
+			"markdown": "html"
+		},
+		"[markdown]": {
+			"editor.wordWrap": "on",
+			"editor.quickSuggestions": true
+		},
+		"emmet.showSuggestionsAsSnippets": true,
+		"emmet.extensionsPath": [
+			"D:\\Repositories\\gh-pages\\src-posts\\The Legend Of Neverland\\.vscode",
+			"/media/dimaslanjaka/DATA/Repositories/dimaslanjaka1.github.io/src-posts/The Legend Of Neverland/.vscode"
+		],
+	}
+}
