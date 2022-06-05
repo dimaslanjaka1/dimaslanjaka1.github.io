@@ -1,0 +1,6 @@
+# plugins
+plugins:
+  - jekyll-redirect-from # https://github.com/jekyll/jekyll-redirect-from
+  - jekyll-feed # https://github.com/jekyll/jekyll-feed
+feed:
+  path: /atom.xml
