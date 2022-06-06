@@ -1,0 +1,4 @@
+# SBG config
+
+source_dir: build-workspace
+public_dir: public

@@ -4,3 +4,5 @@ _site/
 .jekyll-metadata
 build-workspace
 node_modules
+/tmp
+/public

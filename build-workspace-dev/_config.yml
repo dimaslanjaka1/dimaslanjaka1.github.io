@@ -1,3 +1,5 @@
+# jekyll config
+
 # plugins
 plugins:
   - jekyll-redirect-from # https://github.com/jekyll/jekyll-redirect-from
