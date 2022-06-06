@@ -2,3 +2,5 @@
 
 source_dir: build-workspace
 public_dir: public
+generator:
+  cache: true
